@@ -1,105 +1,70 @@
+<h1 align="center">👋 Hi, I'm Amasha Widanagamage</h1>
+<h3 align="center">AI and Data Science Undergraduate | NLP Research Intern @ IIT</h3>
+
 <div align="center">
-
-# Amasha Widanagamage
-
-### AI and Data Science Undergraduate from Robert Gordon University
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amasha-widanagamage-bb2140333/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amawgamage@gmail.com)
-
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 </div>
 
-<br>
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXR3ZWhseW5icjMwZWp6b3h0cjdheWd1ZHN1ejVsNzRpN2o4NHhmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aEcwIBbDy3lTqxf65u/giphy.gif"
+     alt="Header gif" style="width: 250px; height: auto;" />
+</div>
 
-## About
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=senadhi-Thimanya&label=Profile%20views&color=0e75b6&style=flat" alt="senadhi-Thimanya"/> </p>
+
+---
+
+### 🧑‍💻 About Me
 
 I'm a 3rd-year undergraduate pursuing a degree in AI and Data Science at Robert Gordon University, in affiliation with IIT. I currently work as an NLP Research Intern at a research unit within IIT.
+---
 
-<br>
+<h3>🌱 I'm currently learning</h3>
 
-## Experience
+[![Learning](https://skillicons.dev/icons?i=azure,docker,react,ts,nodejs)](https://skillicons.dev)
 
-<table>
-<tr>
-<td width="200"><b>[Start] – Present</b></td>
-<td><b>[Job Title]</b>, [Company]<br><sub>Brief line on scope or impact.</sub></td>
-</tr>
-<tr>
-<td><b>[Start] – [End]</b></td>
-<td><b>[Job Title]</b>, [Company]<br><sub>Brief line on scope or impact.</sub></td>
-</tr>
-</table>
+<h3>💻 Programming Languages</h3>
 
-<br>
+[![skills](https://skillicons.dev/icons?i=css,html,java,js,py,r)](https://skillicons.dev)
 
-## Featured Projects
+<h3>🛠️ Tools & DB</h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![skills](https://skillicons.dev/icons?i=figma,github,idea,pycharm,vscode,mysql)](https://skillicons.dev)
 
-### [Project Name](https://github.com/YOUR_USERNAME/repo)
-What it does and the problem it solves. One or two sentences.
+<br><h3>📈 GitHub Stats</h3>
 
-`Python` `PostgreSQL` `Docker`
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=senadhi-Thimanya&theme=gotham&show_icons=true" alt="senadhi-Thimanya streak"/>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=senadhi-Thimanya&show_icons=true&theme=gotham" alt="senadhi-Thimanya stats"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<br><h3>📫 Connect With Me</h3>
 
-### [Project Name](https://github.com/YOUR_USERNAME/repo)
-What it does and the problem it solves. One or two sentences.
+<p align="left">
+<a href="https://www.linkedin.com/in/amasha-widanagamage-bb2140333/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:amawgamage@gmail.com" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" />
+</a>
+</p>
 
-`React` `Node.js` `AWS`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-<!-- Swap these for your actual stack. Full badge library: https://github.com/Ileriayo/markdown-badges -->
-
-</div>
-
-<br>
-
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=2f80ed&icon_color=2f80ed" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=2f80ed" height="165" />
-</div>
-
-<br>
-
-## Writing & Talks
-
-- **[Article/Talk Title](link)** — one-line description
-- **[Article/Talk Title](link)** — one-line description
-
-<br>
-
-<div align="center">
-<sub>Open to [opportunities / collaboration / consulting] — reach out via <a href="mailto:you@example.com">email</a> or <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>.</sub>
-</div>
+<br><h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=senadhi-Thimanya&theme=gitdimmed&no-bg=true" alt="senadhi-Thimanya trophies"/>
+    </a>
+</p>
 
 <!--
-SETUP NOTES:
-1. Create a repo named exactly YOUR_USERNAME so this renders on your profile page.
-2. Replace all [bracketed] placeholders and YOUR_USERNAME instances.
-3. hide_border=true + theme=default keeps the stats cards clean and minimal rather than flashy —
-   swap "default" for "radical", "dark", etc. at https://github.com/anuraghazra/github-readme-stats if you want more color.
-4. Skill badges are logo-only "flat-square" style to stay understated — for-the-badge style is bolder if you want more punch there too.
+NOTES:
+1. Create a repo named exactly senadhi-Thimanya (your GitHub username) — this README auto-renders on your profile page.
+2. Swapped "Currently learning" / "Languages" / "Tools" icon sets to match your NLP/AI work if you'd like
+   (e.g. add tensorflow, pytorch, jupyter via skillicons.dev — just append to the i= list).
+3. Fixed the broken email link from your draft (the original <a href="senadhithimanya@gmail.com"> was
+   missing the mailto: prefix and had a stray nested <img target> tag).
 -->
