@@ -13,7 +13,7 @@
 
 ## About
 
-[2–4 sentences. What you work on, the kind of problems you like solving, what you're focused on right now. Specific beats generic — e.g. "I build distributed systems for [domain], with a focus on reliability and observability. Currently at [Company], working on [X]."]
+I'm a 3rd-year undergraduate pursuing a degree in AI and Data Science at Robert Gordon University, in affiliation with IIT. I currently work as an NLP Research Intern at a research unit within IIT.
 
 <br>
 
