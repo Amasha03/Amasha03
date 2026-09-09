@@ -60,13 +60,12 @@ A team/coursework management system built for the CM2601 module, focused on stru
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amasha03&show_icons=true&theme=gotham&hide_border=true" alt="Amasha03 stats"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha03&theme=gotham&hide_border=true" alt="Amasha03 streak"/>
+  <img width="45%" src="https://streak-stats.demolab.com/?user=Amasha03&theme=gotham&hide_border=true" alt="Amasha03 streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amasha03&theme=gitdimmed&no-bg=true&margin-w=10" alt="Amasha03 trophies"/>
 </p>
-
 <!--
 NOTES:
 1. Create a repo named exactly Amasha03 and add this as README.md to have it render on the profile page.
