@@ -1,70 +1,79 @@
-<h1 align="center">👋 Hi, I'm Amasha Widanagamage</h1>
-<h3 align="center">AI and Data Science Undergraduate | NLP Research Intern @ IIT</h3>
-
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-</div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXR3ZWhseW5icjMwZWp6b3h0cjdheWd1ZHN1ejVsNzRpN2o4NHhmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aEcwIBbDy3lTqxf65u/giphy.gif"
-     alt="Header gif" style="width: 250px; height: auto;" />
-</div>
+# Hi, I'm Amasha Widanagamage 👋
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=senadhi-Thimanya&label=Profile%20views&color=0e75b6&style=flat" alt="senadhi-Thimanya"/> </p>
+### AI & Data Science Undergraduate · NLP Research Intern @ IIT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amasha-widanagamage-bb2140333/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amawgamage@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Amasha03&label=Profile%20views&color=0e75b6&style=flat-square)
+
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a 3rd-year undergraduate pursuing a degree in AI and Data Science at Robert Gordon University, in affiliation with IIT. I currently work as an NLP Research Intern at a research unit within IIT.
+I'm a 3rd-year undergraduate pursuing a degree in AI and Data Science at Robert Gordon University, in affiliation with IIT, based in Colombo, Sri Lanka. Alongside my studies, I work as an NLP Research Intern at a research unit within IIT. I enjoy building full-stack applications and working on real-world problem solving through code.
+
 ---
 
-<h3>🌱 I'm currently learning</h3>
+### 🚀 Featured Projects
 
-[![Learning](https://skillicons.dev/icons?i=azure,docker,react,ts,nodejs)](https://skillicons.dev)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3>💻 Programming Languages</h3>
+**☕ [Brew-and-Beans](https://github.com/Amasha03/Brew-and-Beans)**
 
-[![skills](https://skillicons.dev/icons?i=css,html,java,js,py,r)](https://skillicons.dev)
+A coffee shop web application that lets users browse menus, add items to a cart, and complete payments — built to apply both front-end and back-end development skills end-to-end.
 
-<h3>🛠️ Tools & DB</h3>
+`CSS` `Front-end` `Back-end`
 
-[![skills](https://skillicons.dev/icons?i=figma,github,idea,pycharm,vscode,mysql)](https://skillicons.dev)
+</td>
+<td width="50%" valign="top">
 
-<br><h3>📈 GitHub Stats</h3>
+**👥 [TeamMate-System](https://github.com/Amasha03/TeamMate-System)**
+
+A team/coursework management system built for the CM2601 module, focused on structured Java development.
+
+`Java` `Coursework`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=senadhi-Thimanya&theme=gotham&show_icons=true" alt="senadhi-Thimanya streak"/>
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=senadhi-Thimanya&show_icons=true&theme=gotham" alt="senadhi-Thimanya stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amasha03&show_icons=true&theme=gotham&hide_border=true" alt="Amasha03 stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha03&theme=gotham&hide_border=true" alt="Amasha03 streak"/>
 </p>
 
-<br><h3>📫 Connect With Me</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/amasha-widanagamage-bb2140333/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:amawgamage@gmail.com" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" />
-</a>
-</p>
-
-<br><h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=senadhi-Thimanya&theme=gitdimmed&no-bg=true" alt="senadhi-Thimanya trophies"/>
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amasha03&theme=gitdimmed&no-bg=true&margin-w=10" alt="Amasha03 trophies"/>
 </p>
 
 <!--
 NOTES:
-1. Create a repo named exactly senadhi-Thimanya (your GitHub username) — this README auto-renders on your profile page.
-2. Swapped "Currently learning" / "Languages" / "Tools" icon sets to match your NLP/AI work if you'd like
-   (e.g. add tensorflow, pytorch, jupyter via skillicons.dev — just append to the i= list).
-3. Fixed the broken email link from your draft (the original <a href="senadhithimanya@gmail.com"> was
-   missing the mailto: prefix and had a stray nested <img target> tag).
+1. Create a repo named exactly Amasha03 and add this as README.md to have it render on the profile page.
+2. This is built around the two pinned repos visible on the profile (Brew-and-Beans, TeamMate-System) —
+   GitHub blocks scraping the full repository list, so if there are other strong projects worth
+   featuring, add them to the Featured Projects table in the same two-column format.
+3. Swapped generic tech-stack badges to actually reflect what's used across the visible repos
+   (CSS/full-stack for Brew-and-Beans, Java for TeamMate-System) plus the languages shown in the
+   original profile header.
 -->
